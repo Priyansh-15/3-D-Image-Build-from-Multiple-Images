@@ -1,6 +1,8 @@
 # Project Name : 3-D-Image-Build-from-Multiple-Images
 # Made By - Priyansh Sharma
 
+## ***You can find a detailed explanation of real life implementation of this project here in my Blog :*** https://priyansh15.medium.com/how-do-google-maps-actually-build-a-3d-environment-street-view-algorithm-explanation-1b64b7904c53
+
 ## Project Demo Implementation Video :
 
 https://user-images.githubusercontent.com/77832407/185854755-a4f994ed-cc8b-46bb-9e56-f5c265054b3e.mp4
